@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jasper Pinoliad Ayawan</h1>
-<h3 align="center">I'm an Aspiring Software Engineer apart from that I'm passionate in designing when it comes in UI of webpages.</h3>
+<h3 align="center">I'm an Aspiring Software Engineer apart from that I'm passionate in designing when it comes of UI in webpages.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jasperayawan&label=Profile%20views&color=0e75b6&style=flat" alt="jasperayawan" /> </p>
 
