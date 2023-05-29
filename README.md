@@ -3,6 +3,11 @@
 
 <p>My GitHub repositories reflect my journey as a developer, showcasing a variety of projects ranging from E-commerce app, online booking system, reservation system, and etc.. I believe in the power of collaboration and open-source, and I actively contribute to the developer community by sharing my code, documenting my projects, and providing feedback to fellow developers.</p>
 
+<p>I am constantly exploring new technologies and frameworks to expand my skill set and stay up-to-date with the latest trends. I am a lifelong learner, always seeking new challenges and opportunities for growth.</p>
+
+<p>Feel free to explore my repositories, where you'll find examples of my work and the projects I'm currently involved in. If you find something interesting or have any questions, I would be delighted to connect and collaborate.</p>
+
+<p>Let's build the future together, one commit at a time! 🚀"</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jasperayawan&label=Profile%20views&color=0e75b6&style=flat" alt="jasperayawan" /> </p>
 
 - 🌱 I’m currently learning **react.js**
