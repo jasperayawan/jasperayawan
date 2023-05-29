@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jasper Pinoliad Ayawan</h1>
-<h5 align="center">I am a passionate software developer/game developer/web designer/ with a deep interest in software engineer. With 2 years of experience in the industry, I have honed my skills in Java, Python and React.js/Next.js and love creating innovative solutions to complex problems.</h5>
+<p>I am a passionate software developer/game developer/web designer/ with a deep interest in software engineer. With 2 years of experience in the industry, I have honed my skills in Java, Python and React.js/Next.js and love creating innovative solutions to complex problems.</>
 
 <p>My GitHub repositories reflect my journey as a developer, showcasing a variety of projects ranging from E-commerce app, online booking system, reservation system, and etc.. I believe in the power of collaboration and open-source, and I actively contribute to the developer community by sharing my code, documenting my projects, and providing feedback to fellow developers.</p>
 
